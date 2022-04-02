@@ -10,11 +10,12 @@ h3 {
   color: #f1c40f;
 }
 
-div h2 {
+h2 {
   background-color: #f1c40f;
+  border: solid 2px black;
 }
 
-ul > li {
+li {
   color: white;
 }
 
